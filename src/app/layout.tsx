@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={cn(poppins.className, "bg-purple-900 text-white")}>
+      <body className={cn(poppins.className, "")}>
         {children}
       </body>
     </html>
