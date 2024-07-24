@@ -1,0 +1,59 @@
+
+<svg width="210mm" height="297mm" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <g stroke="lightgrey" stroke-width="0.5">
+    <!-- Vertical lines -->
+    <line x1="0mm" y1="0" x2="0mm" y2="297mm"/>
+<line x1="10mm" y1="0" x2="10mm" y2="297mm"/>
+<line x1="20mm" y1="0" x2="20mm" y2="297mm"/>
+<line x1="30mm" y1="0" x2="30mm" y2="297mm"/>
+<line x1="40mm" y1="0" x2="40mm" y2="297mm"/>
+<line x1="50mm" y1="0" x2="50mm" y2="297mm"/>
+<line x1="60mm" y1="0" x2="60mm" y2="297mm"/>
+<line x1="70mm" y1="0" x2="70mm" y2="297mm"/>
+<line x1="80mm" y1="0" x2="80mm" y2="297mm"/>
+<line x1="90mm" y1="0" x2="90mm" y2="297mm"/>
+<line x1="100mm" y1="0" x2="100mm" y2="297mm"/>
+<line x1="110mm" y1="0" x2="110mm" y2="297mm"/>
+<line x1="120mm" y1="0" x2="120mm" y2="297mm"/>
+<line x1="130mm" y1="0" x2="130mm" y2="297mm"/>
+<line x1="140mm" y1="0" x2="140mm" y2="297mm"/>
+<line x1="150mm" y1="0" x2="150mm" y2="297mm"/>
+<line x1="160mm" y1="0" x2="160mm" y2="297mm"/>
+<line x1="170mm" y1="0" x2="170mm" y2="297mm"/>
+<line x1="180mm" y1="0" x2="180mm" y2="297mm"/>
+<line x1="190mm" y1="0" x2="190mm" y2="297mm"/>
+<line x1="200mm" y1="0" x2="200mm" y2="297mm"/>
+    <!-- Horizontal lines -->
+    <line x1="0" y1="0mm" x2="210mm" y2="0mm"/>
+<line x1="0" y1="10mm" x2="210mm" y2="10mm"/>
+<line x1="0" y1="20mm" x2="210mm" y2="20mm"/>
+<line x1="0" y1="30mm" x2="210mm" y2="30mm"/>
+<line x1="0" y1="40mm" x2="210mm" y2="40mm"/>
+<line x1="0" y1="50mm" x2="210mm" y2="50mm"/>
+<line x1="0" y1="60mm" x2="210mm" y2="60mm"/>
+<line x1="0" y1="70mm" x2="210mm" y2="70mm"/>
+<line x1="0" y1="80mm" x2="210mm" y2="80mm"/>
+<line x1="0" y1="90mm" x2="210mm" y2="90mm"/>
+<line x1="0" y1="100mm" x2="210mm" y2="100mm"/>
+<line x1="0" y1="110mm" x2="210mm" y2="110mm"/>
+<line x1="0" y1="120mm" x2="210mm" y2="120mm"/>
+<line x1="0" y1="130mm" x2="210mm" y2="130mm"/>
+<line x1="0" y1="140mm" x2="210mm" y2="140mm"/>
+<line x1="0" y1="150mm" x2="210mm" y2="150mm"/>
+<line x1="0" y1="160mm" x2="210mm" y2="160mm"/>
+<line x1="0" y1="170mm" x2="210mm" y2="170mm"/>
+<line x1="0" y1="180mm" x2="210mm" y2="180mm"/>
+<line x1="0" y1="190mm" x2="210mm" y2="190mm"/>
+<line x1="0" y1="200mm" x2="210mm" y2="200mm"/>
+<line x1="0" y1="210mm" x2="210mm" y2="210mm"/>
+<line x1="0" y1="220mm" x2="210mm" y2="220mm"/>
+<line x1="0" y1="230mm" x2="210mm" y2="230mm"/>
+<line x1="0" y1="240mm" x2="210mm" y2="240mm"/>
+<line x1="0" y1="250mm" x2="210mm" y2="250mm"/>
+<line x1="0" y1="260mm" x2="210mm" y2="260mm"/>
+<line x1="0" y1="270mm" x2="210mm" y2="270mm"/>
+<line x1="0" y1="280mm" x2="210mm" y2="280mm"/>
+<line x1="0" y1="290mm" x2="210mm" y2="290mm"/>
+  </g>
+</svg>
